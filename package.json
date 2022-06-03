@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "ethers": "^5.0.0"
+  },
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.2"
+  }
+}
